@@ -11,6 +11,7 @@ config/search.md
 # Application data
 Applications/
 Resumes/base-*.json
+Resumes/*.pdf
 state/
 logs/
 Reports/
